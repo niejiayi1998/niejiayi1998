@@ -1,11 +1,11 @@
 # Hi there, I'm Jiayi Nie! 👋 
 
 - 🔭 I’m currently looking for 2023 SDE Internship opportunity
-- 👩‍💻 I’m currently pursuing my Master degree in Computer Science at Northeastern University
-- 🎓 I graduated from University of Washington with a Bachelor degree in Mathematics and Economics
+- 👩‍💻 I’m currently pursuing my Master's degree in Computer Science at Northeastern University
+- 🎓 I graduated from University of Washington with a Bachelor's degree in Mathematics and Economics
 - 🐱 Fun fact: I have three super cute cats at home and they love Computer Science (always study with me)!
 - 📫 How to reach me: niejiayi1998@gmail.com 
-- 💬 Or connect with me @ <a href="https://linkedin.com/in/jiayi-nie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiayi-nie" height="20" width="20" /></a>
+- 💬 Or connect with me:  <a href="https://linkedin.com/in/jiayi-nie" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiayi-nie" height="20" width="20" /></a>
 
 
 ## Languages 💫
@@ -39,18 +39,3 @@
 ## GitHub Stats 🌱
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=niejiayi1998&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niejiayi1998&layout=compact" />
-
-<!--
-**niejiayi1998/niejiayi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
