@@ -1,6 +1,6 @@
 # Hi there, I'm Jiayi Nie! 👋 
 
-- 🔭 I’m currently looking for 2023 SDE Internship opportunity
+- 🔭 I’m actively seeking for 2023 SDE Internship opportunity
 - 👩‍💻 I’m currently pursuing my Master's degree in Computer Science at Northeastern University
 - 🎓 I graduated from University of Washington with a Bachelor's degree in Mathematics and Economics
 - 🐱 Fun fact: I have three super cute cats at home and they love Computer Science (always study with me)!
