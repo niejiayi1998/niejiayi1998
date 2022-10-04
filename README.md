@@ -37,5 +37,5 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## GitHub Stats 🌱
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=niejiayi1998&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niejiayi1998&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-two-alpha-20.vercel.app/api?username=niejiayi1998&show_icons=true&theme=tokyonight"/>
+<img align="left" width="47%" src="https://github-readme-stats-two-alpha-20.vercel.app/api/top-langs/?username=niejiayi1998&layout=compact" />
