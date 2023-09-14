@@ -1,10 +1,10 @@
 # Hi there, I'm Jiayi Nie! 👋 
 
-- 🔭 I’m actively seeking for 2024 SDE NG opportunity
+- 🔭 I’m actively seeking for 2024 SDE New-Grad role, graduate at May 2024
 - 👩‍💻 I’m currently pursuing my Master's degree in Computer Science at Northeastern University
 - 🎓 I graduated from University of Washington with a Bachelor's degree in Mathematics and Economics
 - 🐱 Fun fact: I have three super cute cats at home and they love Computer Science (always study with me)!
-- 📫 How to reach me: niejiayi1998@gmail.com 
+- 📫 How to reach me: nie.jiay@northeastern.edu 
 - 💬 Or connect with me:  <a href="https://linkedin.com/in/jiayi-nie" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiayi-nie" height="20" width="20" /></a>
 
 
